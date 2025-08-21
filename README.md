@@ -9,3 +9,15 @@ Ola, meu nome é **Cauã Cardoso Mascarenhas Silva** tenho *15 anos*
 - Falar japones
 - Jogar basquete
 - Editar video
+
+
+## Meu primeiro programa
+Esse é um clássico programa "Olá, Mundo!" em C que utiliza a função `printf()`.
+```c
+#include <stdio.h>
+int main() {
+    printf();
+
+    return 0;
+}
+```
